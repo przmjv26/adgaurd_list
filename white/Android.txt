@@ -1,0 +1,18 @@
+! Dominios vinculados a moviles; Google, Samsung, etc.
+
+! - - - G O O G L E
+@@||firebase.googleapis.com
+@@||firebaseinstallations.googleapis.com
+@@||forms.gle
+
+! - - - S A M S U N G -
+@@||samsungrs.com
+@@||dls.di.atlas.samsung.com
+@@||dc.services.visualstudio.com
+
+! - - - H O N O R
+@@||update.platform.hihonorcloud.com
+@@||update.hihonorcdn.com
+@@||appmarket-dl-dra.hihonorcdn.com
+@@||customersvc-dra.platform.hihonorcloud.com
+@@||metrics-dra.dt.hihonorcloud.com
