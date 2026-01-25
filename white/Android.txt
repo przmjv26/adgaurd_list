@@ -1,4 +1,6 @@
 ! Dominios vinculados a moviles; Google, Samsung, etc.
+! - - - S O N Y
+@@||sony.net
 
 ! - - - G O O G L E
 @@||firebase.googleapis.com
@@ -9,6 +11,9 @@
 @@||samsungrs.com
 @@||dls.di.atlas.samsung.com
 @@||dc.services.visualstudio.com
+@@||samsungcloud.com
+@@||samsung-api.com
+
 
 ! - - - H O N O R
 @@||update.platform.hihonorcloud.com
@@ -16,3 +21,10 @@
 @@||appmarket-dl-dra.hihonorcdn.com
 @@||customersvc-dra.platform.hihonorcloud.com
 @@||metrics-dra.dt.hihonorcloud.com
+
+! - - - A P P L E
+@@||apple.com
+@@||apple.co
+
+! - - - X I A O M I
+@@||sf0.market.xiaomi.com
