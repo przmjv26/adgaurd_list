@@ -1,5 +1,6 @@
 ! Dominios identificados de Microsoft
 
+!@@||dc.services.visualstudio.com
 @@||login.microsoftonline.com
 @@||delivery.mp.microsoft.com
 @@||m365cdn.nel.measure.office.net
