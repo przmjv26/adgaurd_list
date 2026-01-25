@@ -1,1 +1,3 @@
 ! Dominios identificados de Microsoft
+
+m365cdn.nel.measure.office.net
