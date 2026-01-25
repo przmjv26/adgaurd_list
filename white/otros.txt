@@ -13,4 +13,4 @@
 @@||oid.telcel-id.com
 
 ! - - OTRAS APSS ------------------
-@||visormanga.com
+@@||visormanga.com
