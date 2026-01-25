@@ -1,5 +1,8 @@
 ! Dominios identificados de Microsoft
 
-m365cdn.nel.measure.office.net
-msauth.net
-g.live.com
+@@||login.microsoftonline.com
+@@||delivery.mp.microsoft.com
+@@||m365cdn.nel.measure.office.net
+@@||msauth.net
+@@||g.live.com
+@@||oneclient.sfx.ms
