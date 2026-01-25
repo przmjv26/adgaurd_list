@@ -14,7 +14,6 @@
 @@||samsungcloud.com
 @@||samsung-api.com
 
-
 ! - - - H O N O R
 @@||update.platform.hihonorcloud.com
 @@||update.hihonorcdn.com
