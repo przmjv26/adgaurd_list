@@ -1,0 +1,24 @@
+! --- CATEGORÍA: PUBLICIDAD Y RASTREO ---
+||adservice.google.com
+||ad.doubleclick.net
+||s0.2mdn.net
+||tpc.googlesyndication.com
+||creatives.wortise.com
+||audienceexposure.com
+||tvx.adgrx.com
+
+! --- CATEGORÍA: TELEMETRÍA Y SISTEMA ---
+||resolver.msg.global.xiaomi.net
+||sdkconfig.intl.xiaomi.com
+||ts.market.mi-img.com
+||adsfs.oppomobile.com.ctdns.cn
+||dns.msftncsi.com
+||www.msn.com
+||assets.msn.com
+
+! --- CATEGORÍA: SOSPECHOSOS Y RUIDO ---
+||www.kjfhenoqfyfljo.com
+||www.pgjlctmswgnwf.com
+||gjhyss.com
+||whitebit.com
+||0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
