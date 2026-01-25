@@ -1,4 +1,6 @@
 ! Dominios identificados para plataformas de streaming
+! Spotify --------------------------------------------
+@@||video-fa.scdn.co
 
 ! Crunchyroll - -  - - - - - - - - - 
 @@||eec.crunchyroll.com
