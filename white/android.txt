@@ -10,7 +10,6 @@
 ! - - - S A M S U N G -
 @@||samsungrs.com
 @@||dls.di.atlas.samsung.com
-@@||dc.services.visualstudio.com
 @@||samsungcloud.com
 @@||samsung-api.com
 
