@@ -1,3 +1,5 @@
 ! P L A Y S T A T I O N
 @@||playstation.net
 
+! Candy
+@@||stritz-live.ext.p.midasplayer.cloud
