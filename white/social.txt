@@ -1,10 +1,10 @@
 ! Dominios identificados para redes
 
 ! - - - M E T A
-@@||b-graph.facebook.com^$important
-@@||graph.facebook.com^$important
+@@||b-graph.facebook.com
+@@||graph.facebook.com
 
 ! - - - T I K T O K
-@@||mon.tiktokv.com^$important
-@@||mcs-va.tiktokv.com^$important
-@@||mssdk-va.tiktok.com^$important
+@@||mon.tiktokv.com
+@@||mcs-va.tiktokv.com
+@@||mssdk-va.tiktok.com
