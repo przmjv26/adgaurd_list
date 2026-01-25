@@ -2,6 +2,9 @@
 ! - - - S O N Y
 @@||sony.net
 
+!IoT - Internet de las cosas
+@@||m2.tuyaeu.com
+
 ! - - - G O O G L E
 @@||firebase.googleapis.com
 @@||firebaseinstallations.googleapis.com
