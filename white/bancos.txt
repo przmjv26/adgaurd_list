@@ -1,0 +1,14 @@
+! Bac- - - - - - - - - - - - - - - - - - - -
+@@||baccredomatic.com
+
+! - Agricola - - - - - - - - - - - - - -  - -
+@@||www.ebanca.com
+
+! - N1co - - - - - - - - - - - - - - - - - -
+@@||proxy-payment-methods.n1co.com
+@@||loyalty-cdn.n1co.com
+@@||issuing-reveal.n1co.com
+@@||issuing-gtw.n1co.com
+@@||front-3ds.n1co.com
+@@||3ds-payments.n1co.com
+@@||js.verygoodvault.com
