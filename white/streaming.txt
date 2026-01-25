@@ -1,2 +1,5 @@
 ! Dominios identificados para plataformas de streaming
 
+! Crunchyroll - -  - - - - - - - - - 
+@@||eec.crunchyroll.com
+@@||prod.gccrunchyroll
