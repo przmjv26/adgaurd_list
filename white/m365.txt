@@ -1,3 +1,5 @@
 ! Dominios identificados de Microsoft
 
 m365cdn.nel.measure.office.net
+msauth.net
+g.live.com
