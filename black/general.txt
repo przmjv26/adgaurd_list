@@ -1,5 +1,6 @@
 ! --- CATEGORÍA: PUBLICIDAD Y RASTREO ---
 ||adservice.google.com^$important
+||googleadservices.com
 ||ad.doubleclick.net
 ||s0.2mdn.net
 ||tpc.googlesyndication.com
