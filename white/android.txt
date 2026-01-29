@@ -24,6 +24,8 @@
 @@||metrics-dra.dt.hihonorcloud.com
 
 ! - - - A P P L E
+@@||apple.com
+@@||apple.co
 
 ! - - - X I A O M I
 @@||sf0.market.xiaomi.com
