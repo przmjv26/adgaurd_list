@@ -23,3 +23,13 @@
 ||gjhyss.com
 ||whitebit.com
 ||0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
+
+
+!Microsoft
+||vortex.data.microsoft.com
+||settings-win.data.microsoft.com
+||telecommand.telemetry.microsoft.com
+||oca.telemetry.microsoft.com
+||sqm.microsoft.com
+||watson.telemetry.microsoft.com
+
