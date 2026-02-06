@@ -2,8 +2,11 @@
 
 !@@||dc.services.visualstudio.com
 @@||login.microsoftonline.com
-@@||delivery.mp.microsoft.com
 @@||m365cdn.nel.measure.office.net
 @@||msauth.net
 @@||g.live.com
 @@||oneclient.sfx.ms
+
+!Onedrive Service
+@@||my.microsoftpersonalcontent.com
+@@||delivery.mp.microsoft.com
