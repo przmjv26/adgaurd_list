@@ -1,12 +1,26 @@
 ! Dominios identificados de Microsoft
-
 !@@||dc.services.visualstudio.com
-@@||login.microsoftonline.com
+
+! DOMINIOS CRITICOS
 @@||m365cdn.nel.measure.office.net
+@@||delivery.mp.microsoft.com
+@@||odwebpl.geotrust.com
 @@||msauth.net
+
+!Login y acceso
+@@||login.microsoftonline.com
+@@||logincdn.msauth.net
+@@||login.live.com
+@@||auth.gfx.ms
+
+! Sincronizacion de Archivo
+@@||my.microsoftpersonalcontent.com
+@@||skyapi.onedrive.live.com
+@@||*.sharepoint.com
+@@||storage.live.com
+@@||*.onedrive.com
 @@||g.live.com
 @@||oneclient.sfx.ms
 
-!Onedrive Service
-@@||my.microsoftpersonalcontent.com
-@@||delivery.mp.microsoft.com
+
+
