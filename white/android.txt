@@ -26,6 +26,7 @@
 ! - - - A P P L E
 #@@||apple.com
 #@@||apple.co
+@@||itunes.apple.com
 
 ! - - - X I A O M I
 @@||sf0.market.xiaomi.com
