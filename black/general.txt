@@ -10,6 +10,7 @@
 
 ! --- CATEGORÍA: TELEMETRÍA Y SISTEMA ---
 ||resolver.msg.global.xiaomi.net
+||t7.a.market.xiaomi.com
 ||sdkconfig.intl.xiaomi.com
 ||ts.market.mi-img.com
 ||adsfs.oppomobile.com.ctdns.cn
