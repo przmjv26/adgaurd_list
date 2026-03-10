@@ -35,6 +35,6 @@
 ||watson.telemetry.microsoft.com
 
 ! X - Twitter
-||ads-twitter.com^$important
-||analytics.twitter.com^$important
-||measurement.monetization.x.com^$important
+!||ads-twitter.com^$important
+!||analytics.twitter.com^$important
+!||measurement.monetization.x.com^$important
