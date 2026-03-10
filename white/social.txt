@@ -8,3 +8,13 @@
 @@||mon.tiktokv.com
 @@||mcs-va.tiktokv.com
 @@||mssdk-va.tiktok.com
+
+! X - Twitter
+@@||x.com
+@@||twitter.com
+@@||twimg.com
+@@||abs.twimg.com
+@@||t.co
+@@||twttr.com
+@@||api.twitter.com
+@@||api.x.com
