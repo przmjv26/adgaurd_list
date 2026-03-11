@@ -20,5 +20,7 @@
 
 !Sitios
 @@||adblock.turtlecute.org
+
 ! Garena
 @@||datadome.garena.com
+@@||checkout.international.pagseguro.com
