@@ -1,4 +1,4 @@
-!^$ctag=~device_tv
+!smartplugin.youbora.com
 !------------------------ LG ---------
 !Criticos
 @@||snu.lge.com^$ctag=~device_tv
@@ -17,3 +17,6 @@
 
 ! ----------------- SAMSUNG
 @@||osb-apps-v2.samsungqbe.com^$ctag=~device_tv
+
+! ------------------- Claro Video
+@@||smartplugin.youbora.com^$ctag=~device_tv
