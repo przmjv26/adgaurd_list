@@ -1,0 +1,16 @@
+!^$ctag=~device_tv
+!------------------------ LG ---------
+!Criticos
+@@||snu.lge.com^$ctag=~device_tv
+@@||su.lge.com^$ctag=~device_tv
+!Conectividad
+@@||lgtvonline.lge.com^$ctag=~device_tv
+@@||lgsmartad.com^$ctag=~device_tv
+@@||connectivitycheck.gstatic.com^$ctag=~device_tv
+@@||nmcheck.gnp.lge.com^$ctag=~device_tv
+@@||*.lgeapi.com^$ctag=~device_tv
+@@||*.lgappstv.com^$ctag=~device_tv
+@@||*.lgsmartad.com^$ctag=~device_tv
+@@||*.comodoca.com^$ctag=~device_tv
+@@||*.digicert.com^$ctag=~device_tv
+@@||*.trust-provider.com^$ctag=~device_tv
