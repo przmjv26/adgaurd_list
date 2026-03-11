@@ -12,6 +12,7 @@
 ! Claro El Salvador
 @@||mfp.hub.clarodigital.net
 @@||mipagoclaro.com
+@@||www.miclaro.com.sv
 @@||oid.telcel-id.com
 
 ! - - OTRAS APSS ------------------
@@ -19,3 +20,5 @@
 
 !Sitios
 @@||adblock.turtlecute.org
+! Garena
+@@||datadome.garena.com
