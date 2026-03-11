@@ -14,3 +14,6 @@
 @@||*.comodoca.com^$ctag=~device_tv
 @@||*.digicert.com^$ctag=~device_tv
 @@||*.trust-provider.com^$ctag=~device_tv
+
+! ----------------- SAMSUNG
+@@||osb-apps-v2.samsungqbe.com^$ctag=~device_tv
