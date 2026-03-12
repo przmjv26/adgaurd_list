@@ -1,0 +1,23 @@
+! --- BLOQUEO DE PUBLICIDAD Y RASTREO (SAMSUNG/LG) ---
+! Samsung Ads & Tracking (Bloqueo Total)
+||ads.samsungads.com^$important
+||config.samsungads.com^$important
+||samsung-com.112.2o7.net^$important
+||osb-evt.samsungqbe.com^$important
+||osb-core.samsungqbe.com^$important
+||log-config.samsung-cloud.com^$important
+||samsungqbe.com^
+
+! LG Ads & Tracking (Bloqueo Total)
+||ad.lgsmartad.com^$important
+||lgad.is.it.lgtvcommon.com^$important
+||ibis.lgsmartad.com^$important
+||us.ibs.lgsmartad.com^$important
+||smartclip.com^$important
+||lgsmartad.com^
+
+! Telemetría General Dispositivos
+||metrics-dra.dt.hihonorcloud.com^$important
+||dls.di.atlas.samsung.com^$important
+||m365cdn.nel.measure.office.net^$important
+||firebaseinstallations.googleapis.com^
