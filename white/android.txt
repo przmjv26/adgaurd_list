@@ -1,10 +1,11 @@
 ! --- SMARTPHONES (Etiqueta: device_phone) ---
-! Xiaomi / Poco / Redmi OTA Updates
+! Xiaomi / Poco / Redmi
 @@||update.miui.com^$ctag=device_phone
 @@||hugeota.d.miui.com^$ctag=device_phone
 @@||file.market.xiaomi.com^$ctag=device_phone
+@@||o2o.api.xiaomi.com^$ctag=device_phone
 
-! Honor OTA Updates
+! Honor
 @@||query-dra.dbankcloud.com^$ctag=device_phone
 @@||update.dbankcloud.com^$ctag=device_phone
 
