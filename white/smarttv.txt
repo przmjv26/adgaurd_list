@@ -1,22 +1,19 @@
-!smartplugin.youbora.com
-!------------------------ LG ---------
-!Criticos
-@@||snu.lge.com^$ctag=~device_tv
-@@||su.lge.com^$ctag=~device_tv
-!Conectividad
-@@||lgtvonline.lge.com^$ctag=~device_tv
-@@||lgsmartad.com^$ctag=~device_tv
-@@||connectivitycheck.gstatic.com^$ctag=~device_tv
-@@||nmcheck.gnp.lge.com^$ctag=~device_tv
-@@||*.lgeapi.com^$ctag=~device_tv
-@@||*.lgappstv.com^$ctag=~device_tv
-@@||*.lgsmartad.com^$ctag=~device_tv
-@@||*.comodoca.com^$ctag=~device_tv
-@@||*.digicert.com^$ctag=~device_tv
-@@||*.trust-provider.com^$ctag=~device_tv
+! ------------------------------------------LG Services
+@@||snu.lge.com^$ctag=device_tv
+@@||su.lge.com^$ctag=device_tv
+@@||lgtvonline.lge.com^$ctag=device_tv
+@@||nmcheck.gnp.lge.com^$ctag=device_tv
+@@||*.lgeapi.com^$ctag=device_tv
+@@||*.lgappstv.com^$ctag=device_tv
 
-! ----------------- SAMSUNG
-@@||osb-apps-v2.samsungqbe.com^$ctag=~device_tv
+! -------------------------------------------Samsung Apps
+@@||osb-apps-v2.samsungqbe.com^$ctag=device_tv
 
-! ------------------- Claro Video
-@@||smartplugin.youbora.com^$ctag=~device_tv
+! Certificados y Conectividad (Vital para Netflix/Disney+)
+@@||connectivitycheck.gstatic.com^$ctag=device_tv
+@@||*.comodoca.com^$ctag=device_tv
+@@||*.digicert.com^$ctag=device_tv
+@@||*.trust-provider.com^$ctag=device_tv
+
+! Claro Video / Youbora Analytics
+@@||smartplugin.youbora.com^$ctag=device_tv
