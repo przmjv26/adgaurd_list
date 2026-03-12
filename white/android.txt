@@ -1,32 +1,31 @@
-! Dominios vinculados a moviles; Google, Samsung, etc.
-! - - - S O N Y
-@@||sony.net
+! --- SMARTPHONES (Etiqueta: device_phone) ---
+! Xiaomi / Poco / Redmi OTA Updates
+@@||update.miui.com^$ctag=device_phone
+@@||hugeota.d.miui.com^$ctag=device_phone
+@@||file.market.xiaomi.com^$ctag=device_phone
 
-!IoT - Internet de las cosas
-@@||m2.tuyaeu.com
+! Honor OTA Updates
+@@||query-dra.dbankcloud.com^$ctag=device_phone
+@@||update.dbankcloud.com^$ctag=device_phone
 
-! - - - G O O G L E
-@@||firebase.googleapis.com
-@@||firebaseinstallations.googleapis.com
-@@||forms.gle
+! Google Services & Security (Phones)
+@@||android.clients.google.com^$ctag=device_phone
+@@||play.google.com^$ctag=device_phone
+@@||mtalk.google.com^$ctag=device_phone
+@@||safebrowsing.googleapis.com^$ctag=device_phone
+@@||vending.bitg.it^$ctag=device_phone
+@@||connectivitycheck.gstatic.com^$ctag=device_phone
 
-! - - - S A M S U N G -
-@@||samsungrs.com
-@@||dls.di.atlas.samsung.com
-@@||samsungcloud.com
-@@||samsung-api.com
+! --- TABLETS (Etiqueta: device_tablet) ---
+! Samsung Tablet OTA Updates
+@@||fota-cloud-dn.ospserver.net^$ctag=device_tablet
+@@||fota-dn.ospserver.net^$ctag=device_tablet
+@@||dmf.samsungdm.com^$ctag=device_tablet
 
-! - - - H O N O R
-@@||update.platform.hihonorcloud.com
-@@||update.hihonorcdn.com
-@@||appmarket-dl-dra.hihonorcdn.com
-@@||customersvc-dra.platform.hihonorcloud.com
-@@||metrics-dra.dt.hihonorcloud.com
-
-! - - - A P P L E
-#@@||apple.com
-#@@||apple.co
-@@||itunes.apple.com
-
-! - - - X I A O M I
-@@||sf0.market.xiaomi.com
+! Google Services & Security (Tablets)
+@@||android.clients.google.com^$ctag=device_tablet
+@@||play.google.com^$ctag=device_tablet
+@@||mtalk.google.com^$ctag=device_tablet
+@@||safebrowsing.googleapis.com^$ctag=device_tablet
+@@||vending.bitg.it^$ctag=device_tablet
+@@||connectivitycheck.gstatic.com^$ctag=device_tablet
