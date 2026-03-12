@@ -1,26 +1,26 @@
-! --- XIAOMI / POCO (Redmi) ---
+! --- XIAOMI / POCO / REDMI ---
+||ad.xiaomi.com^$important
+||log.ad.xiaomi.com^$important
+||api.ad.xiaomi.com^$important
 ||tracking.miui.com^$important
 ||data.mistat.xiaomi.com^$important
-||api.ad.xiaomi.com^$important
-||log.ad.xiaomi.com^$important
-||o2o.api.xiaomi.com^$important
 ||adv.sec.miui.com^$important
+||o2o.api.xiaomi.com
 
-! --- SAMSUNG (Tablets y Phones) ---
-||samsungads.com^$important
+! --- SAMSUNG (PHONES & TABLETS) ---
+||ads.samsungads.com^$important
+||config.samsungads.com^$important
 ||samsung-com.112.2o7.net^$important
-||analytics.samsungsmarttv.com
-||logging.samsungdm.com
-||samsungotaupdate.com
+||samsungotaupdate.com^$important
+||dls.di.atlas.samsung.com^$important
 
 ! --- HONOR / HUAWEI ---
 ||metrics-dra.dt.hihonorcloud.com^$important
 ||metrics1.data.hicloud.com^$important
 ||logbak.hicloud.com^$important
-||grs.hicloud.com
 
-! --- TELEMETRÍA DE APPS GENERAL ---
+! --- RASTREO GENERAL ---
+||firebaseinstallations.googleapis.com
 ||app-measurement.com^$important
 ||crashlytics.com^$important
 ||adjust.com^$important
-||branch.io^$important
