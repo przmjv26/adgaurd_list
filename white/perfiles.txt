@@ -18,6 +18,10 @@
 @@||appleid.apple.com^$important,ctag=os_ios
 @@||icloud.com^$important,ctag=os_ios
 
-! --- TU LAPTOP (CASO ESPECIAL) ---
-! Desbloqueo de Graph Facebook solo para tu laptop si fuera necesario
-! @@||graph.facebook.com^$important,ctag=device_laptop
+! --- CORRECCIÓN MULTIMEDIA FACEBOOK/INSTAGRAM ---
+! Permite carga de Reels, Historias y Notificaciones Push
+@@||b-graph.facebook.com^$important,ctag=os_android
+@@||b-graph.facebook.com^$important,ctag=device_laptop
+@@||graph.fbpigeon.com^$important,ctag=os_android
+@@||graph.fbpigeon.com^$important,ctag=device_laptop
+@@||edge-chat.facebook.com^$important,ctag=os_android
