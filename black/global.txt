@@ -1,0 +1,22 @@
+! Telemetría de Sistemas Operativos
+||telemetry.microsoft.com^$important
+||vortex-win.data.microsoft.com^$important
+||settings-win.data.microsoft.com^$important
+||telemetry.sdk.google.com^$important
+||metrics.apple.com^$important
+||telemetry.apple.com^$important
+||log.hicloud.com^$important
+
+! Publicidad y Tracking de Redes (Back-end)
+||graph.facebook.com^$important
+||analytics.facebook.com^$important
+||pixel.facebook.com^$important
+||ads.tiktok.com^$important
+||analytics.tiktok.com^$important
+||ads-api.twitter.com^$important
+
+! Servidores de Publicidad Universales
+||doubleclick.net^$important
+||googleadservices.com^$important
+||adnxs.com^$important
+||pagead2.googlesyndication.com^$important
