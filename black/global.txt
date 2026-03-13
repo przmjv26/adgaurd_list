@@ -1,4 +1,5 @@
 ! Telemetría de Sistemas Operativos
+||mobile.events.data.microsoft.com^$important
 ||telemetry.microsoft.com^$important
 ||vortex-win.data.microsoft.com^$important
 ||settings-win.data.microsoft.com^$important
