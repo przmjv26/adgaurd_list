@@ -10,5 +10,4 @@
 @@||1drv.ms^$important
 @@||onedrive.com^$important
 ! Otros
-@@||microsoft.com
 @@||graph.microsoft.com
