@@ -1,0 +1,6 @@
+! Bloqueamos solo lo que espía, permitimos lo que carga la App
+||an.facebook.com^$important
+||crashlogs.whatsapp.net^$important
+||log.tiktokv.com^$important
+||ads-api.twitter.com^$important
+||analytics.snapchat.com^$important
