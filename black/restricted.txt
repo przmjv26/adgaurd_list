@@ -1,0 +1,6 @@
+! Dominios que podrían ser necesarios en casos excepcionales
+||facebook.net^
+||t.co^
+||bitly.com^
+||click.google-analytics.com^
+||logs.netflix.com^
