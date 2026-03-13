@@ -10,6 +10,7 @@
 @@||s.youtube.com^$important,ctag=device_tv
 @@||googlevideo.com^$important,ctag=device_tv
 @@||netflix.com^$important,ctag=device_tv
+@@||smartplugin.youbora.com^$important,ctag=device_tv
 
 ! --- SISTEMAS OPERATIVOS (ANDROID / IOS) ---
 ! Vital para evitar que el sistema crea que no hay internet
