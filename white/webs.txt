@@ -19,7 +19,9 @@
 @@||visormanga.com
 
 !Sitios
+@@||st2.adguardcdn.com
 @@||adblock.turtlecute.org
+@@||www.credly.com
 
 ! Garena
 @@||datadome.garena.com
