@@ -8,7 +8,6 @@
 ||log.hicloud.com^$important
 
 ! Publicidad y Tracking de Redes (Back-end)
-||graph.facebook.com^$important
 ||analytics.facebook.com^$important
 ||pixel.facebook.com^$important
 ||ads.tiktok.com^$important
