@@ -1,12 +1,8 @@
-! Dominios identificados para redes
-
-! - - - M E T A
-
-
-! - - - T I K T O K
-@@||mon.tiktokv.com
-@@||mcs-va.tiktokv.com
-@@||mssdk-va.tiktok.com
-
-! X - Twitter
-
+! --- LISTA BLANCA: REDES SOCIALES (CONTENIDO) ---
+@@||fbcdn.net^$important
+@@||akamaihd.net^$important
+@@||instagram.com^$important
+@@||cdninstagram.com^$important
+@@||ttwstatic.com^$important
+@@||tiktokcdn.com^$important
+@@||twimg.com^$important
