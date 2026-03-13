@@ -6,3 +6,6 @@
 @@||ttwstatic.com^$important
 @@||tiktokcdn.com^$important
 @@||twimg.com^$important
+
+@@||graph.fbpigeon.com
+@@||b-graph.fbpigeon.com
