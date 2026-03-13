@@ -1,0 +1,11 @@
+! --- ENTRETENIMIENTO Y CONSOLAS ---
+! Telemetría PlayStation
+||telemetry.api.playstation.com^$important,ctag=device_gameconsole
+||stats.playstation.com^$important,ctag=device_gameconsole
+
+! Telemetría Smart TV
+||tv-static.skype.com^$important,ctag=device_tv
+||log-upload.samsungcloud.com^$important,ctag=device_tv
+
+! Control de Historial YouTube (Bloqueado para todos excepto TV)
+||s.youtube.com^$important,ctag=~device_tv
