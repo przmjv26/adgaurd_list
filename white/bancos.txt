@@ -1,14 +1,10 @@
-! Bac- - - - - - - - - - - - - - - - - - - -
-@@||baccredomatic.com
-
-! - Agricola - - - - - - - - - - - - - -  - -
-@@||www.ebanca.com
-
-! - N1co - - - - - - - - - - - - - - - - - -
-@@||proxy-payment-methods.n1co.com
-@@||loyalty-cdn.n1co.com
-@@||issuing-reveal.n1co.com
-@@||issuing-gtw.n1co.com
-@@||front-3ds.n1co.com
-@@||3ds-payments.n1co.com
-@@||js.verygoodvault.com
+! --- LISTA BLANCA: BANCOS (ACCESO TOTAL) ---
+@@||baccredomatic.com^$important
+@@||bancoagricola.com^$important
+@@||cuscatlan.com^$important
+@@||davivienda.com.sv^$important
+@@||promerica.com.sv^$important
+@@||azul.com.sv^$important
+@@||visa.com^$important
+@@||mastercard.com^$important
+@@||americanexpress.com^$important
