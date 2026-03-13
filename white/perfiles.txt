@@ -1,0 +1,23 @@
+! --- LISTA BLANCA: PERFILES POR ETIQUETA ---
+
+! --- DISPOSITIVOS GAMING (PS3/PS5) ---
+@@||playstation.net^$important,ctag=device_gameconsole
+@@||playstation.com^$important,ctag=device_gameconsole
+@@||sonyentertainmentnetwork.com^$important,ctag=device_gameconsole
+@@||playstation.net^$important,ctag=device_gameconsole
+
+! --- SMART TV ---
+@@||s.youtube.com^$important,ctag=device_tv
+@@||googlevideo.com^$important,ctag=device_tv
+@@||netflix.com^$important,ctag=device_tv
+
+! --- SISTEMAS OPERATIVOS (ANDROID / IOS) ---
+! Vital para evitar que el sistema crea que no hay internet
+@@||connectivitycheck.gstatic.com^$important,ctag=os_android
+@@||clients3.google.com^$important,ctag=os_android
+@@||appleid.apple.com^$important,ctag=os_ios
+@@||icloud.com^$important,ctag=os_ios
+
+! --- TU LAPTOP (CASO ESPECIAL) ---
+! Desbloqueo de Graph Facebook solo para tu laptop si fuera necesario
+! @@||graph.facebook.com^$important,ctag=device_laptop
