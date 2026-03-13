@@ -1,0 +1,6 @@
+! --- TELEMETRÍA DE FABRICANTES (MÓVIL) ---
+||tracking.miui.com^$important
+||api.ad.xiaomi.com^$important
+||data.mistat.xiaomi.com^$important
+||samsungads.com^$important
+||metrics.icloud.huawei.com^$important
