@@ -7,5 +7,7 @@
 @@||tiktokcdn.com^$important
 @@||twimg.com^$important
 
-@@||graph.fbpigeon.com^$important
-@@||b-graph.fbpigeon.com^$important
+@@||graph.fbpigeon.com
+@@||b-graph.fbpigeon.com
+@@||graph.facebook.com
+@@||b-graph.facebook.com
