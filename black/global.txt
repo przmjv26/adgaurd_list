@@ -16,6 +16,10 @@
 ||analytics.tiktok.com^$important
 ||ads-api.twitter.com^$important
 
+!Streaming
+||customerevents.netflix.com^$important
+||logs.netflix.com^$important
+
 ! Servidores de Publicidad Universales
 ||doubleclick.net^$important
 ||googleadservices.com^$important
@@ -24,3 +28,6 @@
 
 ! Test
 ||www.kjfhenoqfyfljo.com^$important
+
+! Analitica en sitios
+||qualtrics.com
