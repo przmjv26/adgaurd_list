@@ -8,3 +8,4 @@
 @@||visa.com^$important
 @@||mastercard.com^$important
 @@||americanexpress.com^$important
+@@||ebanca.com^$important
