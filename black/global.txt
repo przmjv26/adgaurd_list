@@ -21,3 +21,6 @@
 ||googleadservices.com^$important
 ||adnxs.com^$important
 ||pagead2.googlesyndication.com^$important
+
+! Test
+||www.kjfhenoqfyfljo.com^$important
