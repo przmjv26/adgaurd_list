@@ -11,3 +11,6 @@
 @@||b-graph.fbpigeon.com
 @@||graph.facebook.com
 @@||b-graph.facebook.com
+
+@@||api.twitter.com
+@@||api.x.com
