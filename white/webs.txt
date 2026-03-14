@@ -29,3 +29,9 @@
 
 ! Diseño
 @@||static.canva.com
+
+!Google
+@@||forms.gle$important
+
+! Estudios
+@@||frontends.udemycdn.com^$important
