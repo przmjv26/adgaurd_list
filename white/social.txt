@@ -7,10 +7,10 @@
 @@||tiktokcdn.com^$important
 @@||twimg.com^$important
 
-@@||graph.fbpigeon.com
-@@||b-graph.fbpigeon.com
-@@||graph.facebook.com
-@@||b-graph.facebook.com
+@@||graph.fbpigeon.com^$important
+@@||b-graph.fbpigeon.com^$important
+@@||graph.facebook.com^$important
+@@||b-graph.facebook.com^$important
 
-@@||api.twitter.com
-@@||api.x.com
+@@||api.twitter.com^$important
+@@||api.x.com^$important
