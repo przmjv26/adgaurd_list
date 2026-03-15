@@ -9,3 +9,9 @@
 @@||mastercard.com^$important
 @@||americanexpress.com^$important
 @@||ebanca.com^$important
+
+@@||us1.clevertap-prod.com^$important
+@@||issuing-gtw.n1co.com^$important
+@@||front-3ds.n1co.com^$important
+@@||js.verygoodvault.com^$important
+@@||issuing-reveal.n1co.com^$important
