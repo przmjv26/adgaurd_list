@@ -25,3 +25,6 @@
 @@||graph.fbpigeon.com^$important,ctag=os_android
 @@||graph.fbpigeon.com^$important,ctag=device_laptop
 @@||edge-chat.facebook.com^$important,ctag=os_android
+
+! --- FUNCIONALIDAD SMART TV LG ---
+@@||aic.service.lgtvcommon.com^$important,ctag=device_tv
