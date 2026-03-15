@@ -1,5 +1,6 @@
 ! Infraestructura
 @@||community-scripts.org^$important
+@@||uimetadata.samsungiotcloud.com^important
 
 ! TIENDAS ONLINE
 @@||omnisport.com
