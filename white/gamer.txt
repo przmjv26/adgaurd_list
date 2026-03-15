@@ -3,3 +3,11 @@
 
 ! Candy
 @@||stritz-live.ext.p.midasplayer.cloud
+
+! Mangas
+@@||mangabuddy.com^$important
+@@||www.mangabats.com^$important
+@@||www.mangaread.org^$important
+@@||api.mangadex.org^$important
+@@||vymanga.com^$important
+@@||uploads.mangadex.org^$important
