@@ -8,6 +8,13 @@
 ||metrics.apple.com^$important
 ||telemetry.apple.com^$important
 ||log.hicloud.com^$important
+||metric.gstatic.com^$important
+!  - - Xiaomi
+||sg.global.market.xiaomi.com
+||sg.global.market.xiaomi.com^$important
+||ts.market.mi-img.com^$important
+||cdn.alsgp0.fds.api.mi-img.com^$important
+||t14.market.mi-img.com^$important
 
 ! Publicidad y Tracking de Redes (Back-end)
 ||analytics.facebook.com^$important
@@ -15,6 +22,7 @@
 ||ads.tiktok.com^$important
 ||analytics.tiktok.com^$important
 ||ads-api.twitter.com^$important
+||mbbcdn.com^$important
 
 !Streaming
 ||customerevents.netflix.com^$important
