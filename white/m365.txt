@@ -9,5 +9,7 @@
 @@||teams.microsoft.com^$important
 @@||1drv.ms^$important
 @@||onedrive.com^$important
+
 ! Otros
-@@||graph.microsoft.com
+@@||cdn.winget.microsoft.com^$important
+@@||graph.microsoft.com^$important
