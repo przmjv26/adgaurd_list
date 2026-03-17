@@ -39,3 +39,4 @@
 
 ! Analitica en sitios
 ||qualtrics.com
+||skywayplatform.com
