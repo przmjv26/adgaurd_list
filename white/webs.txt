@@ -1,6 +1,7 @@
 ! Infraestructura
 @@||community-scripts.org^$important
 @@||uimetadata.samsungiotcloud.com^important
+@@||clarodrive.com^$important
 
 ! TIENDAS ONLINE
 @@||omnisport.com
@@ -18,6 +19,8 @@
 @@||mipagoclaro.com
 @@||www.miclaro.com.sv
 @@||oid.telcel-id.com
+@@||www.clarodrive.com}
+@@||i0001.clarodrive.com
 
 ! - - OTRAS APSS ------------------
 @@||visormanga.com
