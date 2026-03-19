@@ -5,6 +5,7 @@
 @@||stritz-live.ext.p.midasplayer.cloud
 
 ! Mangas
+@@||movietop.cc^$important
 @@||mangabuddy.com^$important
 @@||www.mangabats.com^$important
 @@||www.mangaread.org^$important
