@@ -1,7 +1,14 @@
+! Spotify --------------------------------------------
+@@||video-fa.scdn.co
+@@||wwwmarketing.scdn.co^$important
+!  - - - Crunchyroll
+@@||eec.crunchyroll.com
+@@||prod.gccrunchyroll
+!=====================================================================
 ! Infraestructura
 @@||community-scripts.org^$important
 @@||uimetadata.samsungiotcloud.com^important
-@@||clarodrive.com^$important
+@@||tailscale.com^$important
 
 ! TIENDAS ONLINE
 @@||omnisport.com
@@ -19,8 +26,7 @@
 @@||mipagoclaro.com
 @@||www.miclaro.com.sv
 @@||oid.telcel-id.com
-@@||www.clarodrive.com}
-@@||i0001.clarodrive.com
+@@||clarodrive.com
 
 !Sitios
 @@||st2.adguardcdn.com
@@ -39,9 +45,11 @@
 
 ! Estudios o recursos
 @@||frontends.udemycdn.com^$important
+@@||genially.com
 
 @@||www.manual.sv
 @@||www.cybermania.ws
+@@||www.qbittorrent.org
 
 @@||rare-gallery.com
 @@||www.iconarchive.com
