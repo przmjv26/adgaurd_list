@@ -22,9 +22,6 @@
 @@||www.clarodrive.com}
 @@||i0001.clarodrive.com
 
-! - - OTRAS APSS ------------------
-@@||visormanga.com
-
 !Sitios
 @@||st2.adguardcdn.com
 @@||adblock.turtlecute.org
