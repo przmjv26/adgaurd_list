@@ -5,6 +5,9 @@
 @@||eec.crunchyroll.com
 @@||prod.gccrunchyroll
 !=====================================================================
+# - - - - - Samsung - - - - 
+@@||consent.samsungrs.com
+!=====================================================================
 ! Infraestructura
 @@||community-scripts.org^$important
 @@||uimetadata.samsungiotcloud.com^important
