@@ -4,7 +4,9 @@
 ! Candy
 @@||stritz-live.ext.p.midasplayer.cloud
 
+! - - OTRAS APSS ------------------
 ! Mangas
+@@||visormanga.com
 @@||movietop.cc^$important
 @@||mangabuddy.com^$important
 @@||www.mangabats.com^$important
