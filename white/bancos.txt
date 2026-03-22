@@ -22,6 +22,7 @@
 @@||netcetera.com^$important
 ! - VISA
 @@||cardinalcommerce.com^$important
+@@||cardinaltrusted.com^$important
 @@||cybersource.com^$important
 ! - Mastercard
 @@||mastercard.com^$important
