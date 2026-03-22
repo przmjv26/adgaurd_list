@@ -16,3 +16,14 @@
 @@||js.verygoodvault.com^$important
 @@||issuing-reveal.n1co.com^$important
 @@||n1co.com^$important
+
+! ===== Pasarela de pagos ======
+@@||netcetera.ch^$important
+@@||netcetera.com^$important
+! - VISA
+@@||cardinalcommerce.com^$important
+@@||cybersource.com^$important
+! - Mastercard
+@@||mastercard.com^$important
+! - American Expres
+@@||americanexpress.com^$important
