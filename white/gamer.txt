@@ -4,8 +4,8 @@
 ! Candy
 @@||stritz-live.ext.p.midasplayer.cloud
 
-! - - OTRAS APSS ------------------
-! Mangas
+!################ OTRAS APSS ##################
+! - Mangas
 @@||visormanga.com
 @@||movietop.cc^$important
 @@||mangabuddy.com^$important
@@ -14,3 +14,7 @@
 @@||api.mangadex.org^$important
 @@||vymanga.com^$important
 @@||uploads.mangadex.org^$important
+! - Wattpad
+@@||api.wattpad.com
+! - YoVendoRecarga
+@@||api.ipify.org
