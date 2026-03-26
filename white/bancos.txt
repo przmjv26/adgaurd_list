@@ -1,6 +1,7 @@
 ! ==================================================================
 ! GOOGLE WALLET & PAGOS CONTACTLESS (VITAL)
 ! --- INFRAESTRUCTURA DE PAGOS Y TOKENS ---
+@@||shieldedtransaction.com^$important,ctag=os_android|device_phone|device_laptop
 @@||pay.google.com^$important,ctag=os_android|device_phone
 @@||payments.google.com^$important,ctag=os_android|device_phone
 @@||tshm.google.com^$important,ctag=os_android|device_phone
@@ -8,7 +9,8 @@
 @@||wallet-pa.googleapis.com^$important,ctag=os_android|device_phone
 @@||snet.googleapis.com^$important,ctag=os_android|device_phone
 @@||android.clients.google.com^$important,ctag=os_android|device_phone
-
+! --- VALIDACION DE TARJETA
+@@||issuersdk01.shieldedtransaction.com^$important,ctag=os_android|device_phone
 ! --- FIREBASE (PARA NOTIFICACIONES DE PAGO) ---
 @@||firebaseinstallations.googleapis.com^$important,ctag=os_android|device_phone
 ! ==================================================================
