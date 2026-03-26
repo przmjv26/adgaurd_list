@@ -1,3 +1,11 @@
+! --- BLOQUEOS CONTROLADOS POR EL ADMINISTRADOR ---
+||firebaseinstallations.googleapis.com^
+||pay.google.com^
+||payments.google.com^
+||tshm.google.com^
+||cardinalcommerce.com^
+||skywayplatform.com^
+
 ! Telemetría de Sistemas Operativos
 ||mobile.events.data.microsoft.com^$important
 ||browser.events.data.microsoft.com^$important
