@@ -1,11 +1,14 @@
-! --- LISTA BLANCA: PERFILES POR ETIQUETA ---
-
+! ==================================================================
+! Vitales pasa SO Moviles
+! - Android
+@@||firebaseinstallations.googleapis.com^$important,ctag=os_android|device_phone
+! ==================================================================
 ! --- DISPOSITIVOS GAMING (PS3/PS5) ---
 @@||playstation.net^$important,ctag=device_gameconsole
 @@||playstation.com^$important,ctag=device_gameconsole
 @@||sonyentertainmentnetwork.com^$important,ctag=device_gameconsole
 @@||playstation.net^$important,ctag=device_gameconsole
-
+! ==================================================================
 ! --- SMART TV ---
 @@||s.youtube.com^$important,ctag=device_tv
 @@||googlevideo.com^$important,ctag=device_tv
@@ -14,6 +17,7 @@
 ! Claro Box
 @@||iot.skywayplatform.com^$important,ctag=device_tv|os_android
 
+! ==================================================================
 ! --- SISTEMAS OPERATIVOS (ANDROID / IOS) ---
 ! Vital para evitar que el sistema crea que no hay internet
 @@||connectivitycheck.gstatic.com^$important,ctag=os_android
@@ -21,6 +25,7 @@
 @@||appleid.apple.com^$important,ctag=os_ios
 @@||icloud.com^$important,ctag=os_ios
 
+! ==================================================================
 ! --- CORRECCIÓN MULTIMEDIA FACEBOOK/INSTAGRAM ---
 ! Permite carga de Reels, Historias y Notificaciones Push
 @@||b-graph.facebook.com^$important,ctag=os_android
