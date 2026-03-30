@@ -15,7 +15,6 @@
 
 ! TIENDAS ONLINE
 @@||omnisport.com
-@@||pricesmart.com
 @@||freundferreteria.com
 @@||unillantas.com.sv
 @@||pricesmart.com
