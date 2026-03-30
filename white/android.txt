@@ -10,6 +10,9 @@
 ! Honor
 @@||query-dra.dbankcloud.com^$ctag=device_phone
 @@||update.dbankcloud.com^$ctag=device_phone
+@@||update.platform.hihonorcloud.com^$ctag=device_phone
+@@||hnid-dra.platform.hihonorcloud.com^$ctag=device_phone
+@@||hnid-dre.platform.hihonorcloud.com^$ctag=device_phone
 
 ! Google Services & Security (Phones)
 @@||android.clients.google.com^$ctag=device_phone
