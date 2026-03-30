@@ -1,4 +1,4 @@
-! ==================================================================
+! ============================== TELEFONO ====================================
 ! Vitales pasa SO Moviles
 ! - Android
 @@||firebaseinstallations.googleapis.com^$important,ctag=os_android|device_phone
@@ -40,13 +40,26 @@
 @@||playstation.com^$important,ctag=device_gameconsole
 @@||sonyentertainmentnetwork.com^$important,ctag=device_gameconsole
 @@||playstation.net^$important,ctag=device_gameconsole
-! ==================================================================
-! --- SMART TV ---
+! ============================== SMART TV ======================================
 @@||s.youtube.com^$important,ctag=device_tv
 @@||googlevideo.com^$important,ctag=device_tv
 @@||smartplugin.youbora.com^$important,ctag=device_tv
 @@||aic.service.lgtvcommon.com^$important,ctag=device_tv
-! Claro Box
+! ------------------------------------------LG Services
+@@||snu.lge.com^$ctag=device_tv
+@@||su.lge.com^$ctag=device_tv
+@@||lgtvonline.lge.com^$ctag=device_tv
+@@||nmcheck.gnp.lge.com^$ctag=device_tv
+@@||*.lgeapi.com^$ctag=device_tv
+@@||*.lgappstv.com^$ctag=device_tv
+! -------------------------------------------Samsung Apps
+@@||osb-apps-v2.samsungqbe.com^$ctag=device_tv
+! -------------------------- Certificados y Conectividad (Vital para Netflix/Disney+)
+@@||connectivitycheck.gstatic.com^$ctag=device_tv
+@@||*.comodoca.com^$ctag=device_tv
+@@||*.digicert.com^$ctag=device_tv
+@@||*.trust-provider.com^$ctag=device_tv
+! --------------------------- Claro Box
 @@||iot.skywayplatform.com^$important,ctag=device_tv|os_android
 ! ==================================================================
 ! --- SISTEMAS OPERATIVOS (ANDROID / IOS) ---
