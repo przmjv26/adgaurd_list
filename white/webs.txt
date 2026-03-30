@@ -24,12 +24,13 @@
 @@||zonadigitalsv.com
 @@||totto.com
 
-! Claro El Salvador
+! Telefonia SV
 @@||mfp.hub.clarodigital.net
 @@||mipagoclaro.com
 @@||www.miclaro.com.sv
 @@||oid.telcel-id.com
 @@||clarodrive.com
+@@||www.tigo.com.sv
 
 !Sitios
 @@||st2.adguardcdn.com
