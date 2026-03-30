@@ -2,6 +2,38 @@
 ! Vitales pasa SO Moviles
 ! - Android
 @@||firebaseinstallations.googleapis.com^$important,ctag=os_android|device_phone
+! -------------------- Google Services & Security (Phones)
+@@||android.clients.google.com^$ctag=device_phone
+@@||play.google.com^$ctag=device_phone
+@@||mtalk.google.com^$ctag=device_phone
+@@||safebrowsing.googleapis.com^$ctag=device_phone
+@@||vending.bitg.it^$ctag=device_phone
+@@||connectivitycheck.gstatic.com^$ctag=device_phone
+! ------------------- Xiaomi / Poco / Redmi
+@@||update.miui.com^$ctag=device_phone
+@@||hugeota.d.miui.com^$ctag=device_phone
+@@||file.market.xiaomi.com^$ctag=device_phone
+@@||o2o.api.xiaomi.com^$ctag=device_phone
+@@||dsbm.easysol.net^$important
+@@||sf0.market.xiaomi.com
+! -------------------- Honor
+@@||query-dra.dbankcloud.com^$important,ctag=os_android|device_phone
+@@||update.dbankcloud.com^$important,ctag=os_android|device_phone
+@@||update.platform.hihonorcloud.com^$important,ctag=os_android|device_phone
+@@||hnid-dra.platform.hihonorcloud.com^$ctag=os_android|device_phone
+@@||hnid-dre.platform.hihonorcloud.com^$ctag=os_android|device_phone
+! --- TABLETS (Etiqueta: device_tablet) ---
+! ---------------- Samsung Tablet OTA Updates
+@@||fota-cloud-dn.ospserver.net^$ctag=device_tablet
+@@||fota-dn.ospserver.net^$ctag=device_tablet
+@@||dmf.samsungdm.com^$ctag=device_tablet
+! ------------------ Google Services & Security (Tablets)
+@@||android.clients.google.com^$ctag=device_tablet
+@@||play.google.com^$ctag=device_tablet
+@@||mtalk.google.com^$ctag=device_tablet
+@@||safebrowsing.googleapis.com^$ctag=device_tablet
+@@||vending.bitg.it^$ctag=device_tablet
+@@||connectivitycheck.gstatic.com^$ctag=device_tablet
 ! ==================================================================
 ! --- DISPOSITIVOS GAMING (PS3/PS5) ---
 @@||playstation.net^$important,ctag=device_gameconsole
@@ -16,7 +48,6 @@
 @@||aic.service.lgtvcommon.com^$important,ctag=device_tv
 ! Claro Box
 @@||iot.skywayplatform.com^$important,ctag=device_tv|os_android
-
 ! ==================================================================
 ! --- SISTEMAS OPERATIVOS (ANDROID / IOS) ---
 ! Vital para evitar que el sistema crea que no hay internet
@@ -24,7 +55,6 @@
 @@||clients3.google.com^$important,ctag=os_android
 @@||appleid.apple.com^$important,ctag=os_ios
 @@||icloud.com^$important,ctag=os_ios
-
 ! ==================================================================
 ! --- CORRECCIÓN MULTIMEDIA FACEBOOK/INSTAGRAM ---
 ! Permite carga de Reels, Historias y Notificaciones Push
