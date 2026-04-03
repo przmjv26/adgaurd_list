@@ -46,6 +46,8 @@
 @@||smartplugin.youbora.com^$important,ctag=device_tv
 @@||aic.service.lgtvcommon.com^$important,ctag=device_tv
 ! ------------------------------------------LG Services
+@@||aic-hcss.lgthinq.com^
+! UP - Aplicacion de tv
 @@||snu.lge.com^$ctag=device_tv
 @@||su.lge.com^$ctag=device_tv
 @@||lgtvonline.lge.com^$ctag=device_tv
