@@ -12,6 +12,8 @@
 @@||community-scripts.org^$important
 @@||uimetadata.samsungiotcloud.com^important
 @@||tailscale.com^$important
+! - IOT
+@@||tuyacn.com
 
 ! TIENDAS ONLINE
 @@||omnisport.com
@@ -30,6 +32,7 @@
 @@||oid.telcel-id.com
 @@||clarodrive.com
 @@||www.tigo.com.sv
+@@||api.miclaro.com.gt
 
 !Sitios
 @@||st2.adguardcdn.com
@@ -45,6 +48,7 @@
 
 !Google
 @@||forms.gle$important
+@@||firebaseinstallations.googleapis.com
 
 ! Estudios o recursos
 @@||frontends.udemycdn.com^$important
