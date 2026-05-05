@@ -1,6 +1,8 @@
 ! ============================== TELEFONO ====================================
 ! Vitales pasa SO Moviles
 ! - Android
+@@||pay.google.com
+@@||payments.google.com
 @@||firebaseinstallations.googleapis.com^$important,ctag=os_android|device_phone
 ! -------------------- Google Services & Security (Phones)
 @@||android.clients.google.com^$ctag=device_phone
