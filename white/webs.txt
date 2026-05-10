@@ -4,6 +4,8 @@
 !  - - - Crunchyroll
 @@||eec.crunchyroll.com
 @@||prod.gccrunchyroll
+!  - - - HBO
+@@||default.any-any.prd.api.discomax.com
 !=====================================================================
 # - - - - - Samsung - - - - 
 @@||consent.samsungrs.com
@@ -14,6 +16,9 @@
 @@||tailscale.com^$important
 ! - IOT
 @@||tuyacn.com
+@@||yoosee.co
+@@||trade.cloudlinks.cn
+@@||download.yoosee.com
 
 ! TIENDAS ONLINE
 @@||omnisport.com
@@ -47,12 +52,14 @@
 @@||static.canva.com
 
 !Google
+@@||g.co
 @@||forms.gle$important
 @@||firebaseinstallations.googleapis.com
 
 ! Estudios o recursos
-@@||frontends.udemycdn.com^$important
+@@||frontends.udemycdn.com
 @@||genially.com
+@@||annas-archive.gd
 
 @@||www.manual.sv
 @@||www.cybermania.ws
