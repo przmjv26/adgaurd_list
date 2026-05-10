@@ -33,6 +33,8 @@
 @@||issuing-reveal.n1co.com^$important
 @@||n1co.com^$important
 
+@@||ct.ddc.paypal.com^$important
+@@||geo.ddc.paypal.com^$important
 ! ===== Pasarela de pagos ======
 @@||netcetera.ch^$important
 @@||netcetera.com^$important
