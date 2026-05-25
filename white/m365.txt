@@ -18,5 +18,7 @@
 @@||config.office.com^$important
 
 ! Otros
+@@||assignments.edu.cloud.microsoft^$important
+@@||displaycatalog.mp.microsoft.com^$important
 @@||cdn.winget.microsoft.com^$important
 @@||graph.microsoft.com^$important
