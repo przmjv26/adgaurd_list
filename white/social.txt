@@ -11,6 +11,7 @@
 @@||b-graph.fbpigeon.com^$important
 @@||graph.facebook.com^$important
 @@||b-graph.facebook.com^$important
+@@||meta-ohttp-relay-prod.fastly-edge.com
 
 @@||api.twitter.com^$important
 @@||api.x.com^$important
