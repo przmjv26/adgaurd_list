@@ -36,8 +36,9 @@
 @@||www.miclaro.com.sv
 @@||oid.telcel-id.com
 @@||clarodrive.com
-@@||www.tigo.com.sv
 @@||api.miclaro.com.gt
+@@||www.tigo.com.sv
+@@||mi.tigo.com.sv
 
 !Sitios
 @@||st2.adguardcdn.com
