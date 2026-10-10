@@ -1,0 +1,15 @@
+! --- MEGA ---
+@@||mega.nz^$important
+@@||eu.static.mega.co.nz^$important
+@@||g.api.mega.co.nz^$important
+@@||*.userstorage.mega.co.nz^$important
+!  -- MEDIAFIRE
+@@||www.mediafire.com^$important
+@@||static.mediafire.com^$important
+!  --FILEDITCHFILES
+@@||fileditchfiles.st^$important
+@@||delta.freakingfileditch.st^$important
+! --- OTHER
+@@||viewcrate.cc^$important
+@@||www.filecrypt.cc^$important
+@@||send.cm^$important
